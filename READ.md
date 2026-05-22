@@ -34,5 +34,4 @@ CSV Files (examples used from Kaggle for raw data)
 
 Brazilian E-Commerce Public Dataset by Olist 
 
-## Current Status
-
+(under construction :) )
